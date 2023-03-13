@@ -1,6 +1,6 @@
 # Repositório do desafio de criar um conversor de moedas do evento #boracodar da Rocketseat!
 
-[Link de demonstração:](https://vhs4.github.io/Conversor-de-moedas/)
+[Link de demonstração](https://vhs4.github.io/Conversor-de-moedas/)
 
 ## 💻 Tecnologias
 
