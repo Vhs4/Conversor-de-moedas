@@ -133,7 +133,7 @@ li {
       content: "";
       width: 2.4rem;
       height: 2.4rem;
-      background: url(/assets/imgs/chevron-down-line.svg) no-repeat;
+      background: url(https://cdn.discordapp.com/attachments/1078453686688292914/1084639747122663505/chevron-down-line.svg) no-repeat;
 }
 
 .selected:hover {
